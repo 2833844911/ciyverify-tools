@@ -24,7 +24,6 @@
 
             if (window.cyconfig) {
                 window.cyconfig.cgoff = 1
-                cyconfig.getTk()
                 setInterval(function (){
                     if (window.cyconfig){
                         cyconfig.getTk()
