@@ -29,7 +29,7 @@
                     if (window.cyconfig){
                         cyconfig.getTk()
                     }
-                },180000)
+                },120000)
                 clearInterval(ds1)
                 cyconfig.init({
                     appid: "{appid}",
