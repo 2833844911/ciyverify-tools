@@ -4,7 +4,9 @@
 
 AppID和Key 申请网站:
     https://ciyverify.com
+视频教程:
 
+https://www.bilibili.com/video/BV1oT421U7WR
 
 ### 第一步
 把项目下载到你的服务器解压
