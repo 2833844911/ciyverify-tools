@@ -2,6 +2,8 @@
 
 可以无需修改web项目的代码实现套用ciyverify
 
+AppID和Key 申请网站:
+    https://ciyverify.com
 
 
 ### 第一步
