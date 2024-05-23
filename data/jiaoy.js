@@ -13,7 +13,6 @@
         } else {
             domain = "; domain=." + window.location.hostname.split('.').slice(-2).join('.');
         }
-        console.log(domain)
         document.cookie = name + "=" + (value || "") + expires + "; path=/" + domain;
     }
 
@@ -35,7 +34,6 @@
                 cyconfig.init({
                     appid: "{appid}",
                     success: function s(data) {
-                        console.log(data)
                         setCookie("cytoken", data.tk, 1)
                     }
                 })
