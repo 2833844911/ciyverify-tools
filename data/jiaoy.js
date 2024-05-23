@@ -33,7 +33,7 @@
                 },180000)
                 clearInterval(ds1)
                 cyconfig.init({
-                    appid: "PUJsgNOChFfQSjTt",
+                    appid: "{appid}",
                     success: function s(data) {
                         console.log(data)
                         setCookie("cytoken", data.tk, 1)
