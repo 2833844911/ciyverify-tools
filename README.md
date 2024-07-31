@@ -6,7 +6,7 @@ ciyverify 可以本地部署 https://github.com/2833844911/ciyverify/
 可以无需修改web项目的代码实现套用ciyverify
 
 AppID和Key 申请网站:
-    https://ciyverify.com
+    https://c0i.cn/index.html
 视频教程:
 
 https://www.bilibili.com/video/BV1oT421U7WR
@@ -21,7 +21,7 @@ https://www.bilibili.com/video/BV1oT421U7WR
   "AppID": "fsdggdfgdfhfghfdg", // 你申请的AppID
   "Key": "hfghddfghfgdjhjhgjgdrter", // 你申请的Key
   "TargetBaseURL": "http://127.0.0.1:8090", // 你想要转发的web服务（最好127.0.0.1本地，套域名什么的可能会出现跨域问题）
-  "VerifyJs": "https://ciyverify.com/1.0.1/js/cyverification.js", // 那个版本的校验js
+  "VerifyJs": "https://c0i.cn/1.0.1/js/cyverification.js", // 那个版本的校验js
   "ServerPort": 18280 // 套盾后启动的服务端口
 }
 ```
