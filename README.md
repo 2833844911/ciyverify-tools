@@ -1,5 +1,8 @@
 # ciyverify无感一键套盾
 
+
+ciyverify 可以本地部署 https://github.com/2833844911/ciyverify/
+
 可以无需修改web项目的代码实现套用ciyverify
 
 AppID和Key 申请网站:
